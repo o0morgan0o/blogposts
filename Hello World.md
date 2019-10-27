@@ -4,7 +4,7 @@ Mais voilà, depuis ma reconversion dans la programmation informatique, j'ai con
 
 # Pourquoi blogger ?
 
-Les avantages du blog me semblent aussi très personel pour le créateur. Au dela du fait de faire du réseau en étant présent et actif sur internet, le fait d'écrier un billet de blog sur une nouvelle technologie qu'on découvre, ou un petit tuto sur un mini-projet, permet de consolider les acquis et de clarifier beaucoup de chose dans son esprit.
+Les avantages du blog me semblent aussi très personel pour le créateur. Au dela du fait de faire du réseau en étant présent et actif sur internet, le fait d'écrier un billet de blog sur une nouvelle technologie qu'on découvre, ou un petit tuto sur un mini-projet, permet de consolider les acquis et de clarifier beaucoup de choses dans son esprit.
 Alors voilà, mon but c'est principalement cela. Mieux comprendre les différentes techno que j'utilise en les expliquant aux autres (*mais aussi et surtout à moi-même*).
 
 Etant passionné d'énormément de domaines, j'espère pouvoir faire partager tout cela, et peut être donner envie à d'autres de partager à leur tour.
