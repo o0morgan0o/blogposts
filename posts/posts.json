@@ -1,0 +1,17 @@
+{
+    "articles": [{
+            "folder": "01",
+            "title": "hello",
+            "Creation_date": "25 oct 2019",
+            "language": "french",
+            "imageUrl": "aaa.jpg"
+        },
+        {
+            "folder": "02",
+            "title": "hello",
+            "Creation_date": "25 oct 2019",
+            "language": "french",
+            "imageUrl": "aaa.jpg"
+        }
+    ]
+}
