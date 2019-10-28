@@ -48,7 +48,7 @@ J'envisage de reconstruire tout cela dans une sorte de v2 qui sera beaucoup plus
 
 Après toute la partie soudure et assemblage (et surtout code!) nous arrivons à un petit résultat tel que celui ci (*fait avec des matériaux de récup comme vous pouvez voir!!*):
 
-![alt text](https://www.morgan-thibert.com/src/img/blog/02/Arp01.jpg "premier draft")
+![alt text](https://raw.githubusercontent.com/o0morgan0o/blogposts/master/posts/02/src/Arp01.jpg "premier draft")
 
 
 Et le hasard fait bien les choses puisqu'à l'époque je venais de faire l'acquisition d'une imprimante 3d ! On en reparleras très certainement car j'ai beaucoup de petits projets qui prennent forme grâce à l'imprimante.
@@ -132,7 +132,7 @@ Voici le resultat vidéo en reliant mon arpégiatteur à un synthétiseur sous A
 
 Et si on soulève le capot:
 
-![alt text](https://www.morgan-thibert.com/src/img/blog/02/Arp02.jpg "premier draft")
+![alt text](https://raw.githubusercontent.com/o0morgan0o/blogposts/master/posts/02/src/Arp02.jpg "premier draft")
 
 # Version 2
 
