@@ -2,16 +2,18 @@
     "articles": [{
             "folder": "01",
             "title": "Hello World",
-            "Creation_date": "25 oct 2019",
+            "creation_date": "25 oct 2019",
             "language": "french",
-            "imageUrl": "aaa.jpg"
+            "imageUrl": "aaa.jpg",
+            "tags": ["general"]
         },
         {
             "folder": "02",
             "title": "Création d'un Arpégiatteur à base d'Arduino",
-            "Creation_date": "25 oct 2019",
+            "creation_date": "25 oct 2019",
             "language": "french",
-            "imageUrl": "aaa.jpg"
+            "imageUrl": "aaa.jpg",
+            "tags": ["arduino", "hardware"]
         }
     ]
 }
