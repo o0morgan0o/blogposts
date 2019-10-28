@@ -1,14 +1,14 @@
 {
     "articles": [{
             "folder": "01",
-            "title": "hello",
+            "title": "Hello World",
             "Creation_date": "25 oct 2019",
             "language": "french",
             "imageUrl": "aaa.jpg"
         },
         {
             "folder": "02",
-            "title": "hello",
+            "title": "Création d'un Arpégiatteur à base d'Arduino",
             "Creation_date": "25 oct 2019",
             "language": "french",
             "imageUrl": "aaa.jpg"
